@@ -1,0 +1,13 @@
+95e2e5,172.20.0.1,GET,http://localhost:8080/,1710803606,,404,request
+f10e4a,172.20.0.1,GET,http://localhost:8080/,1710803688,,404,request
+51701d,172.20.0.1,GET,http://localhost:8080/admin,1710803705,,302,request
+68f721,172.20.0.1,GET,http://localhost:8080/admin?crudAction=index&crudControllerFqcn=App%5CController%5CAdmin%5CMovieCrudController,1710803713,,200,request
+2222ba,172.20.0.1,GET,http://localhost:8080/bundles/easyadmin/app.c8a6d1ff.css,1710803718,28d40e,404,request
+28d40e,172.20.0.1,GET,http://localhost:8080/bundles/easyadmin/app.c8a6d1ff.css,1710803719,,404,request
+ac26ea,172.20.0.1,GET,http://localhost:8080/bundles/easyadmin/page-layout.3347892e.js,1710803718,e1d6b3,404,request
+e1d6b3,172.20.0.1,GET,http://localhost:8080/bundles/easyadmin/page-layout.3347892e.js,1710803719,,404,request
+48cf49,172.20.0.1,GET,http://localhost:8080/bundles/easyadmin/app.5a01f8c5.js,1710803721,1449de,404,request
+1449de,172.20.0.1,GET,http://localhost:8080/bundles/easyadmin/app.5a01f8c5.js,1710803722,,404,request
+2981a0,172.20.0.1,GET,http://localhost:8080/bundles/easyadmin/page-color-scheme.4c28406c.js,1710803725,974638,404,request
+974638,172.20.0.1,GET,http://localhost:8080/bundles/easyadmin/page-color-scheme.4c28406c.js,1710803726,,404,request
+e76979,172.20.0.1,GET,http://localhost:8080/,1710803779,,404,request
